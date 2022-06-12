@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with [Milvasoft Projects](https://github.com/Milvasoft/Milvasoft)
 
-- 💬 Ask me about **Backend and DevOps thing**
+- 💬 Ask me about **Backend and DevOps**
 
 - 📫 How to reach me **bugrakosen@windowslive.com**
 
