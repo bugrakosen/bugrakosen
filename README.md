@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Buğra</h1>
-<h3 align="center">An engineer dedicated to backend and devOps! My works are in the Milvasoft organization repositories. You ask why ? => Why not ?</h3>
+<h3 align="center">An engineer dedicated to backend and devOps! My main projects are in the Milvasoft organization. You ask why ? => Why not ?</h3>
 
 - 🔭 I’m currently working on [Milvasoft Projects](https://github.com/Milvasoft)
 
