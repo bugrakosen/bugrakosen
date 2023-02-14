@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Buğra</h1>
-<h3 align="center">An engineer dedicated to backend and devOps! My main projects are in the Milvasoft organization. You ask why ? => Why not ?</h3>
+<h3 align="center">An engineer dedicated to backend and devOps! My projects are in the Milvasoft organization repo.</h3>
 
-- 🔭 I’m currently working on [Milvasoft Projects](https://github.com/Milvasoft)
+- 🔭 Check my [open source libraries](https://github.com/Milvasoft)
 
-- 👯 I’m looking to collaborate on [Milvasoft Projects](https://github.com/Milvasoft/Milvasoft)
+- 👯 I'm open to suggestions or contribution in my [.NET helper library.](https://github.com/Milvasoft/Milvasoft) Don't forget to check the [wiki 😉](https://github.com/Milvasoft/Milvasoft/wiki)
 
-- 🤝 I’m looking for help with [Milvasoft Projects](https://github.com/Milvasoft/Milvasoft)
+- 📄 You can take a look at the [documents](https://techwhitepapers.milvasoft.com/) I created
 
 - 💬 Ask me about **Backend and DevOps**
 
